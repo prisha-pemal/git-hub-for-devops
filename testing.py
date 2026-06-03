@@ -1,1 +1,1 @@
-print("hello dosto kese ho")
+print("hello dosto kese ho sab log ")
